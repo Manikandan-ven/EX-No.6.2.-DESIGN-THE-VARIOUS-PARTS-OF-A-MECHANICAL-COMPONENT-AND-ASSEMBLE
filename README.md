@@ -45,9 +45,15 @@ We follow the same steps for aligning the components onto their respective      
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
 ## INPUT: 
+
+
+
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+
+
+
 <img width="1144" height="818" alt="image" src="https://github.com/user-attachments/assets/cd060bfc-2c81-4664-8930-02eeec553e34" />
 
 
